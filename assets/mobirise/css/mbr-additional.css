@@ -1,0 +1,117 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+#menu-l .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-l.mbr-navbar--stuck .mbr-navbar__section {
+  background: #efefef;
+}
+#menu-l .mbr-navbar__section {
+  background: #efefef;
+}
+#menu-l .mbr-navbar__hamburger {
+  color: #faaf40;
+}
+#msg-box4-m .mbr-header__text {
+  color: #000000;
+  text-align: left;
+}
+#msg-box4-m .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-m .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-m .mbr-article P {
+  color: #252525;
+  text-align: left;
+}
+#content5-18 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-18 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-18 .mbr-article {
+  color: #fff;
+}
+#instagram-feed-block-e .inst__title {
+  color: #252525;
+}
+#form1-i .mbr-header__text {
+  color: #ffffff;
+}
+#footer1-o P {
+  text-align: center;
+  color: #ffffff;
+}
+
+#menu-p .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-p.mbr-navbar--stuck .mbr-navbar__section {
+  background: #efefef;
+}
+#menu-p .mbr-navbar__section {
+  background: #efefef;
+}
+#menu-p .mbr-navbar__hamburger {
+  color: #faaf40;
+}
+#footer1-q P {
+  text-align: center;
+  color: #ffffff;
+}
+#header3-t P {
+  text-align: left;
+}
+#header3-t H3 {
+  text-align: center;
+}
+#header3-t I {
+  font-size: 30px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#msg-box3-v .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-v .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-x .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-x .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-z .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-z .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-10 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-10 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-11 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-11 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-12 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-12 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-13 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-13 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
